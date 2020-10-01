@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/crickscore/static/css/main.95ecd92c.chunk.css",
+    "main.js": "/crickscore/static/js/main.eceb564c.chunk.js",
+    "main.js.map": "/crickscore/static/js/main.eceb564c.chunk.js.map",
+    "runtime-main.js": "/crickscore/static/js/runtime-main.1ba1b98a.js",
+    "runtime-main.js.map": "/crickscore/static/js/runtime-main.1ba1b98a.js.map",
+    "static/js/2.6fd2559f.chunk.js": "/crickscore/static/js/2.6fd2559f.chunk.js",
+    "static/js/2.6fd2559f.chunk.js.map": "/crickscore/static/js/2.6fd2559f.chunk.js.map",
+    "index.html": "/crickscore/index.html",
+    "precache-manifest.6de696391ed9a8cd14347253c2b4dcf4.js": "/crickscore/precache-manifest.6de696391ed9a8cd14347253c2b4dcf4.js",
+    "service-worker.js": "/crickscore/service-worker.js",
+    "static/css/main.95ecd92c.chunk.css.map": "/crickscore/static/css/main.95ecd92c.chunk.css.map",
+    "static/js/2.6fd2559f.chunk.js.LICENSE.txt": "/crickscore/static/js/2.6fd2559f.chunk.js.LICENSE.txt",
+    "static/media/vs.png": "/crickscore/static/media/vs.27b23a52.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ba1b98a.js",
+    "static/js/2.6fd2559f.chunk.js",
+    "static/css/main.95ecd92c.chunk.css",
+    "static/js/main.eceb564c.chunk.js"
+  ]
+}
